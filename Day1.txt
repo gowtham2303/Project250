@@ -1,0 +1,2 @@
+I had Previous Knowledge of Python i used it in My college days so today i spent day refreshing basic topics from W3 Schools website .
+It included loops, functions, Sets, lists, Dict, Tuple etc..
